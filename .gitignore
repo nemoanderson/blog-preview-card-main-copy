@@ -12,8 +12,6 @@
 *.xd
 
 # Avoid your project being littered with annoying .DS_Store files!
-README-template.md
-README.md
 style-guide.md
 design
 preview.jpg
