@@ -59,7 +59,7 @@ https://www.w3schools.com/html/html_images.asp
 </div>
 ```
 
-I couldn't figure out why the image borders wasn't rounding. I was applying boder-radius to only the card class. That's like rounding the photo album you put the picture in and expecting it to round the picutures corners also.
+I couldn't figure out why the image borders wasn't rounding. I was applying boder-radius to only the card class. That's like rounding the photo album you put the picture in and expecting it to round the picutures corners also. 
 
 ```css
 .card img {
